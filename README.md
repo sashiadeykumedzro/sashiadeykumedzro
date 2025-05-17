@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Sabina! 👋
 
-<!--
-**sashiadeykumedzro/sashiadeykumedzro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a passionate student developer studying with ALX software engineering. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: branching in GitHub.
+- 🔭 Working on: ALX Software Engineering
+- 🌍 Languages: English and hopefully Python and Java soon!
+- 📫 How to reach me: sabashiadey004@gmail.com
+- ⚡ Fun fact: I don't like weddings. They're stressful to plan and attend.
+
+## Get in Touch 📬
+- LinkedIn: linkedin.com/in/sabinaashiadey-kumedzro
+
+
+
+
